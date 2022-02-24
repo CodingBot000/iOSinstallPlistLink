@@ -1,16 +1,9 @@
 <h1 align="center">Pokedex</h1>
 
-<p align="center">
-  <a href="https://devlibrary.withgoogle.com/products/android/repos/skydoves-pokedex"><img alt="Google" src="https://skydoves.github.io/badges/google-devlib.svg"/></a><br>
-  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
-  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
-  <a href="https://github.com/skydoves/Pokedex/actions"><img alt="Build Status" src="https://github.com/skydoves/Pokedex/workflows/Android%20CI/badge.svg"/></a> 
-  <a href="https://proandroiddev.com/exploring-dagger-hilt-and-whats-main-differences-with-dagger-android-c8c54cd92f18"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
-  <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a> 
-</p>
-
 <p align="center">  
-🗡️ Pokedex demonstrates modern Android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+🗡️ This ToyProject make modern Android development with Dagger-Hilt, Coroutines, Flow, RxJava, Jetpack (Room, ViewModel), based on MVVM architecture.
+</br>
+Used by Giphy API
 </p>
 </br>
 
@@ -21,7 +14,8 @@
 ## Download
 Go to the [Releases](https://github.com/skydoves/Pokedex/releases) to download the latest APK.
 
-<img src="/previews/preview.gif" align="right" width="32%"/>
+<!-- <img src="/previews/preview.gif" align="right" width="32%"/> -->
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZPj4myoBoHw/0.jpg)](https://youtu.be/ZPj4myoBoHw)
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
@@ -51,9 +45,6 @@ Go to the [Releases](https://github.com/skydoves/Pokedex/releases) to download t
   - [AndroidRibbon](https://github.com/skydoves/androidribbon) - A simple way to implement a  beautiful ribbon with the shimmering on Android.
   - [ProgressView](https://github.com/skydoves/progressview) - A polished and flexible ProgressView, fully customizable with animations.
 
-## MAD Score
-![summary](https://user-images.githubusercontent.com/24237865/102366914-84f6b000-3ffc-11eb-8d49-b20694239782.png)
-![kotlin](https://user-images.githubusercontent.com/24237865/102366932-8a53fa80-3ffc-11eb-8131-fd6745a6f079.png)
 
 ## Architecture
 Pokedex is based on the MVVM architecture and the Repository pattern.
