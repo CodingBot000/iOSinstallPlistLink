@@ -8,9 +8,8 @@ Used by Giphy API
 </p>
 </br>
 
-<p align="center">
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZPj4myoBoHw/0.jpg)](https://youtu.be/ZPj4myoBoHw)
-</p>
 - Click to view as a 'YouTube' video.
 
 ## Download
