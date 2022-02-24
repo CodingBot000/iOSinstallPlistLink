@@ -19,7 +19,7 @@ Go to the [Releases]( ) to download the latest APK.
 <!-- <img src="/previews/preview.gif" align="right" width="32%"/> -->
 
 
-## Tech stack & Open-source libraries
+## Tech stack
 - Minimum SDK level 21
 - [Kotlin] based, [Coroutines] + [Flow], [RxJava] for asynchronous.
 - [Hilt] for dependency injection.
@@ -28,9 +28,20 @@ Go to the [Releases]( ) to download the latest APK.
   - ViewModel 
   - DataBinding 
   - Room Persistence 
+  - Paging3
 - Architecture
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
   - Repository Pattern
 - [Retrofit2 & OkHttp3]
 - [Glide]
+
+
+****************************************
+* 보여주기용으로 일부러 Coroutine과 RxJava를 같이썼습니다.
+LoadMore가  필요한 부분은 Coroutine + Paging 처리
+LoadMore가  필요없는  부분은 RxJava 입니다.
+****************************************
+
+[Project Structure]
+![Alt text](https://github.com/CodingBot000/GiphyToyProject/blob/main/GiphyTestApp.drawio.png)
 
